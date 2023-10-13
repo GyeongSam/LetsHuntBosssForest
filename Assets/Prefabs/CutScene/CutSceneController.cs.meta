@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 526a4f48f158d18499cc8cc9dacb0f83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Runner: {instanceID: 0}
+  - Object: {instanceID: 0}
+  - StageOneBoss: {fileID: 4912710842846403732, guid: 02f4c2ffdfabfc34c93b1c0e0bf3c43e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
